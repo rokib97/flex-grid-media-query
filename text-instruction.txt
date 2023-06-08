@@ -1,0 +1,31 @@
+Responsive Web Layout
+
+[Flexbox  Grid  and Media Query] 
+1)flexbox, flex direction justify content align items
+2)Create Login Form And Flexible Nav Using Flexbox
+3)CSS Grid layout template columns grid gap
+4)Create calendar using css grid and flex box
+5)Explore Responsiveness using Media query
+
+HomeWork : Explore CSS Position.[must]
+
+
+[Magic Of Bootstrap] 
+1) Insider view of Bootstrap and use background classes
+2)Background spacing margin and padding border button
+3)Shadow width height overflow display
+4)Typography Button image table multiple styles
+5)Create a image slider, carousel using bootstrap
+6)Website card, card design, card image, card group
+7)Create a responsive navbar using bootstrap
+8)Flex layout, justify content, align items, horizontal center
+9) Bootstrap responsive Container and breakpoints
+10)Grid System with 12 column layout, responsive grid card.
+
+HomeWork : 
+Explore More Here : https://getbootstrap.com/
+
+Resourses:
+Bootstrap5 : https://www.youtube.com/watch?v=O_9u1P5YjVc&list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR
+
+
